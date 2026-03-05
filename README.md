@@ -7,11 +7,22 @@ Dataset
 The dataset used is taken from Kaggle (Air Quality Data in India). It contains pollution values measured in different cities.
 
 The pollutants used in the program are:
+
 PM2.5
+
+
 PM10
+
+
 NO2
+
+
 SO2
+
+
 CO
+
+
 O3
 
 How the Program Works
@@ -19,11 +30,22 @@ The program reads pollution values from the dataset file. Each row represents a 
 The agent checks these values and determines the AQI category.
 
 The AQI categories are:
+
 0–50 Good
+
+
 51–100 Moderate
+
+
 101–200 Unhealthy
+
+
 201–300 Poor
+
+
 301–400 Very Poor
+
+
 401–500 Severe
 
 
